@@ -34,4 +34,3 @@ This is a personal collection, but feel free to fork and adapt for your own use.
 ## License
 
 MIT License - feel free to use and modify these prompts for your own projects.
-```
